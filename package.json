@@ -1,13 +1,5 @@
 {
-  "name": "delta-api",
-  "version": "1.0.0",
-  "description": "A simple API using Express.js",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "cors": "^2.8.5"
-  }
+    "hunt": "Ooh, hunt?! Hunt where?! I love the thrill of the chase!",
+    "fight": "Fight?! Yes! The thrill of combat, the clash of steel—there’s nothing better!",
+    "meat": "MEAT?! Say no more! Freshly cooked, dripping with juices... Hand it over!"
 }
